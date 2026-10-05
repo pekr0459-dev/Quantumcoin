@@ -2,5 +2,5 @@
   "name": "Quantumcoin",
   "symbol": "QTM",
   "description": "Quantumcoin (QTM) token",
-  "image": "<LOGO_IMAGE_URL>"
+  "image": "https://raw.githubusercontent.com/pekr0459-dev/quantumcoin/main/quantumcoin-logo.png"
 }
